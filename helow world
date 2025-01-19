@@ -1,0 +1,2 @@
+s="Hello wrold"
+print(s)
